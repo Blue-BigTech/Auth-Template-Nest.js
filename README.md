@@ -1,13 +1,4 @@
-# 🛂 Nest.js Authentication Example
-
-[![MegaLinter](https://github.com/leosuncin/nest-auth-example/workflows/MegaLinter/badge.svg?branch=master)](https://github.com/leosuncin/nest-auth-example/actions/workflows/mega-linter.yml)
-[![Unit test](https://github.com/leosuncin/nest-auth-example/actions/workflows/unit-test.yml/badge.svg?branch=master)](https://github.com/leosuncin/nest-auth-example/actions/workflows/unit-test.yml)
-[![E2E test](https://github.com/leosuncin/nest-auth-example/actions/workflows/e2e-test.yml/badge.svg?branch=master)](https://github.com/leosuncin/nest-auth-example/actions/workflows/e2e-test.yml)
-![Prettier](https://img.shields.io/badge/Code%20style-prettier-informational?logo=prettier&logoColor=white)
-[![GPL v3 License](https://img.shields.io/badge/License-GPLv3-green.svg)](./LICENSE)
-[![HitCount](https://hits.dwyl.com/leosuncin/nest-auth-example.svg)](https://hits.dwyl.com/leosuncin/nest-auth-example)
-
-> Nest.js authentication with Passport. RealWorld example
+Nest.js authentication with Passport. RealWorld example
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
@@ -27,10 +18,6 @@
 ## Run Locally
 
 Clone the project
-
-```bash
-  git clone https://github.com/leosuncin/nest-auth-example.git
-```
 
 Go to the project directory
 
@@ -112,10 +99,6 @@ To see the code coverage
   npm run test:cov
 ```
 
-## Try it online
-
-[![Gitpod Try-it](https://img.shields.io/badge/Gitpod-Try--it-blue?logo=gitpod)](https://gitpod.io/#https://github.com/leosuncin/nest-auth-example)
-
 ## Tech Stack
 
 **Server:** Typescript, PostgreSQL, Nest.js, TypeORM, Passport
@@ -123,38 +106,6 @@ To see the code coverage
 **Test:** Jest, SuperTest, TS auto mock
 
 **DevOps:** Docker Compose
-
-## Author
-
-👤 **Jaime Leonardo Suncin Cruz**
-
-- Twitter: [@jl_suncin](https://twitter.com/jl_suncin)
-- Github: [@leosuncin](https://github.com/leosuncin)
-<!-- markdown-link-check-disable -->
-- LinkedIn: [@jaimesuncin](https://linkedin.com/in/jaimesuncin)
-<!-- markdown-link-check-enable -->
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-### :star2: Stargazers
-
-[![Stargazers repo roster for @leosuncin/nest-auth-example](https://reporoster.com/stars/leosuncin/nest-auth-example)](https://github.com/leosuncin/nest-auth-example/stargazers)
-
-### :fork_and_knife: Forkers
-
-[![Forkers repo roster for @leosuncin/nest-auth-example](https://reporoster.com/forks/leosuncin/nest-auth-example)](https://github.com/leosuncin/nest-auth-example/network/members)
-
-## Related
-
-Here are some more example projects with Nest.js
-
-[![GraphQL example](https://github-readme-stats.vercel.app/api/pin/?username=leosuncin&repo=nest-graphql-example)](https://github.com/leosuncin/nest-graphql-example)
-
-[![API example](https://github-readme-stats.vercel.app/api/pin/?username=leosuncin&repo=nest-api-example)](https://github.com/leosuncin/nest-api-example)
-
-[![TypeORM custom repository](https://github-readme-stats.vercel.app/api/pin/?username=leosuncin&repo=nest-typeorm-custom-repository)](https://github.com/leosuncin/nest-typeorm-custom-repository)
 
 ## License
 
